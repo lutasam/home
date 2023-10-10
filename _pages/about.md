@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I‘m a Master of Engineering student in Electrical & Computer Engineering (ECE) at Duke University currently. I received my Bachelor of Engineering degree in Computer Science from Wuhan University of Technology in June 2023. I have practical experience in software development and test engineering from several internships, including software development at TikTok(Bytedance) and test engineering at Huawei Technology. At Duke, I currently focus on studying the field in Edge Computing and want to go deeper in this field!
+I‘m a Master of Engineering student in Electrical & Computer Engineering (ECE) at Duke University currently. I received my Bachelor of Engineering degree in Computer Science from Wuhan University of Technology in June 2023. I have practical experience in software development and test engineering from several internships, including software development at TikTok(Bytedance) and test engineering at Huawei Technology. I am currently at Duke University, where my primary area of academic focus centers on Edge Computing. I am eager to further immerse myself in this field and explore its intricacies in greater depth!
 
 Education
 ======
