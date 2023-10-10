@@ -14,7 +14,7 @@ Education
 ======
 * M.Eng. in Electrical & Computer Engineering, Duke University, 2025(expected)
 * B.Eng. in Computer Science, Wuhan University of Technology, 2023
-  * 93/100, rank: 3%, National Merit
+  * 93/100, rank: 3%, National Scholarship
 
 Work experience
 ======
