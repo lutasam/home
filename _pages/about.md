@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2022: Software Engineer Intern
+* Summer 2022: **Software Engineer Intern**
   * Bytedance
   * Department: Lark Business Application
   * Duties included: Backend Development
@@ -29,7 +29,7 @@ Work experience
     * Improved overall code execution speed through caching, thread pooling and asynchronous programming.
     * Collaborated on multi-person programming by Git and GitLab.
 
-* Fall 2021 & Winter 2022: Test Engineer Intern
+* Fall 2021 & Winter 2022: **Test Engineer Intern**
   * Huawei Technology
   * Department: Kunpeng Audio Chip
   * Duties included: Build & maintain Test framework
@@ -48,28 +48,28 @@ Skills
 Projects
 ======
 
-* Online Medical Consultation Platform (Graduate Design) | Mar 2023 – May 2023
+* **Online Medical Consultation Platform (Graduate Design)**  Mar 2023 – May 2023
   * Built a web consultation platform by Vue.js, Gin, and Gorm frameworks, with MySQL as databases and Redis for caching.
   * Optimized search functions with ElasticSearch to increase the speed of search by about 30%.
   * Developed a web instant messaging platform with WebSocket and used MongoDB to store conversation logs.
   * Improved system concurrency using Goroutines and RabbitMQ, and used Nginx for load balancing.
 
-* AES Encoder & Decoder | Sep 2022 – Oct 2022
+* **AES Encoder & Decoder**  Sep 2022 – Oct 2022
   * Designed the module architecture for the AES program, encompassing input and output specifications, interconnections between modules, etc.
   * Developed a Verilog program for 128-bit AES Encoder and Decoder, and subsequently integrate it into an FPGA platform for rigorous functional validation.
   * Conducted comprehensive testing of the code using a Verilog testbench at a large scale, with the primary objective of verifying the code’s functional integrity.
 
-* NFT Analysis System (Zhejiang Univ Summer Camp Program) | Jun 2022 – July 2022
+* **NFT Analysis System (Zhejiang Univ Summer Camp Program)**  Jun 2022 – July 2022
   * Crawled thousands of NFT data from websites like Opensea, Axie Marketplace using the Python framework PySpider. Preprocessed the data and stored it in MySQL.
   * Developed the system using Spring Boot for the backend, React.js + Bootstrap for the frontend, and MySQL as the database.
   * Implemented risk and security detection for various types of NFTs using AliCloud’s content detection API.
 
-* Mahjong Game | C++ Software Developer Mar 2022 – May 2022
+* **Mahjong Game**  Mar 2022 – May 2022
   * Developed the game GUI with C++ MFC framework, including the start, login, game interface, etc.
   * Used C++ object-oriented programming method to implement all functions of the game, and stored user’s game data with SQLite and Cloud MySQL.
   * Implemented the multiplayer mode and real-time chat room function with C++ Socket.
 
-* Blog Sharing Website |  Sep 2021 – Oct 2021
+* **Blog Sharing Website**  Sep 2021 – Oct 2021
   * Developed the website using Vue.js, SpringBoot, and MyBatis frameworks, with Cloud MySQL.
   * Implemented permission management with JWT and Spring Security, and used Redis to store JWT tokens.
   * Implemented quick search for 2 million blogs based on ElasticSearch.
