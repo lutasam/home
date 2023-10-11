@@ -12,8 +12,9 @@ I‘m a Master of Engineering student in Electrical & Computer Engineering (ECE)
 
 During my free time, I frequently immerse myself in playing musical instruments such as the guitar and piano. Lately, I've taken up the violin as well. I have a deep passion for symphonic music, so if you're also a classical music enthusiast, don't hesitate to talk with me!
 
-[Download CV here](http://lutasam.github.io/files/resume1008.pdf) 2023.10
-[Download Undergraduate Transcript here](http://lutasam.github.io/files/transcript_undergraduate_chenwei.pdf)
+[Download CV here](http://lutasam.github.io/home/files/resume1008.pdf) 2023.10
+
+[Download Undergraduate Transcript here](http://lutasam.github.io/home/files/transcript_undergraduate_chenwei.pdf)
 
 Education
 ======
