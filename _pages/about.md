@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I‘m a Master of Engineering student in Electrical & Computer Engineering (ECE) at Duke University. I received my Bachelor of Engineering degree in Computer Science from Wuhan University of Technology in June 2023. I have practical experience in software development and test engineering from several internships, including software development at TikTok(Bytedance) and test engineering at Huawei Technology. I am currently at Duke University, where my primary area of academic focus centers on Edge Computing. I am eager to further immerse myself in this field and explore its intricacies in greater depth!
+I‘m a Master of Engineering student in Electrical & Computer Engineering (ECE) at Duke University. I received my Bachelor of Engineering degree in Computer Science from Wuhan University of Technology in June 2023. I have practical experience in software development and test engineering from several internships, including software development at TikTok(Bytedance) and test engineering at Huawei Technology.
 
 During my free time, I frequently immerse myself in playing musical instruments such as the guitar and piano. Lately, I've taken up the violin as well. I have a deep passion for symphonic music, so if you're also a classical music enthusiast, don't hesitate to talk with me!
 
-[Download CV here](http://lutasam.github.io/home/files/resume1008.pdf) 2023.10
+[View my CV here](http://lutasam.github.io/home/files/resume1008.pdf) 2023.10
 
-[Download Undergraduate Transcript here](http://lutasam.github.io/home/files/transcript_undergraduate_chenwei.pdf)
+[View my Undergraduate Transcript here](http://lutasam.github.io/home/files/transcript_undergraduate_chenwei.pdf)
 
 Education
 ======
@@ -35,7 +35,7 @@ Work experience
     * Improved overall code execution speed through caching, thread pooling and asynchronous programming.
     * Collaborated on multi-person programming by Git and GitLab.
 
-* Fall 2021 & Winter 2022: **Test Engineer Intern**
+* Fall 2021 & Winter 2022: **Test Developer Intern**
   * Huawei Technology
   * Department: Kunpeng Audio Chip
   * Duties included: Build & maintain Test framework
