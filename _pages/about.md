@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I‘m a Master of Engineering student in Electrical & Computer Engineering (ECE) at Duke University. I received my Bachelor of Engineering degree in Computer Science from Wuhan University of Technology in June 2023. I have practical experience in software development and test engineering from several internships, including software development at TikTok(Bytedance) and test engineering at Huawei Technology.
+I‘m a Master of Engineering student in Electrical & Computer Engineering (ECE) at Duke University. I received my Bachelor of Engineering degree in Computer Science from Wuhan University of Technology in June 2023. I have practical experience in software development and test engineering from several internships, including software development at TikTok(Bytedance) and test engineering at Huawei Technology. During my free time, I frequently immerse myself in playing musical instruments such as the guitar and piano.
 
-During my free time, I frequently immerse myself in playing musical instruments such as the guitar and piano. Lately, I've taken up the violin as well. I have a deep passion for symphonic music, so if you're also a classical music enthusiast, don't hesitate to talk with me!
+<!-- During my free time, I frequently immerse myself in playing musical instruments such as the guitar and piano. Lately, I've taken up the violin as well. I have a deep passion for symphonic music, so if you're also a classical music enthusiast, don't hesitate to talk with me! -->
 
-[View my CV here](http://lutasam.github.io/home/files/resume1008.pdf) 2023.10
+[View my CV here](http://lutasam.github.io/home/files/resume_chenwei.pdf) 2023.10
 
 [View my Undergraduate Transcript here](http://lutasam.github.io/home/files/transcript_undergraduate_chenwei.pdf)
 
